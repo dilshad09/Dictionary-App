@@ -4,6 +4,7 @@ const ButtonComp = () => {
   return (
     <div>
        <Button variant="contained">Hello World</Button>;
+       <Button variant="contained" color="primary">Hello World</Button>;
     </div>
   )
 }
