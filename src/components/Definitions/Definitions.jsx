@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Definitions = ({word, category, meanings}) => {
+  console.log(meanings)
   return (
     <>
      <div className='meanings'>
